@@ -1,0 +1,26 @@
+{
+  "name": "webpack-files-archive-plugin",
+  "version": "1.0.1",
+  "description": "Webpack 5 plugin to create archives of emitted files",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshuapril1/webpack-files-archive-plugin.git"
+  },
+  "keywords": [
+    "archive",
+    "webpack",
+    "zip",
+    "tar",
+    "files"
+  ],
+  "author": "Himanshu Aggarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/himanshuapril1/webpack-files-archive-plugin/issues"
+  },
+  "homepage": "https://github.com/himanshuapril1/webpack-files-archive-plugin#readme",
+  "dependencies": {
+    "archiver": "^5.1.0"
+  }
+}
